@@ -46,7 +46,7 @@ This project is a basic implementation of CRUD (Create, Read, Update, Delete) op
    ```bash
    npm start
    ```
-2. The server will run on `http://localhost:3000`.
+2. The server will run on `http://localhost:8080`.
 
 ## API Endpoints
 
