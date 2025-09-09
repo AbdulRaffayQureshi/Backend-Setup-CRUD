@@ -2,7 +2,8 @@
 
 # Backend-Setup-CRUD
 
-![Project Banner](https://raw.githubusercontent.com/abdulraffayqureshi/wanderlust/main/assets/banner.png)
+![Project Banner]<img width="1885" height="908" alt="image" src="https://github.com/user-attachments/assets/8cecf342-0ce6-4cd9-bf4b-b719183c8768" />
+
 
 A comprehensive backend CRUD setup for Apna College major project. This repository provides a robust foundation for building RESTful APIs with full Create, Read, Update, and Delete functionality.
 
