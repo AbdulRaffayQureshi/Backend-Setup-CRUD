@@ -5,20 +5,151 @@ node_modules/
 logs
 *.log
 npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
 
 # Environment variables
 .env
+.env.*
 
 # OS files
 .DS_Store
 Thumbs.db
+Desktop.ini
 
 # IDE files
 .vscode/
 .idea/
 *.sublime-workspace
 *.sublime-project
+*.code-workspace
+*.swp
+*.bak
+*.tmp
 
 # Build output
 dist/
 build/
+public/build/
+
+# Coverage
+coverage/
+*.lcov
+
+# Test output
+junit.xml
+
+# npm/yarn/pnpm cache
+.npm/
+.yarn/
+.pnpmfile.cjs
+
+# Misc
+*.tgz
+*.gz
+*.zip
+*.tar
+
+# TypeScript
+*.tsbuildinfo
+
+# Next.js
+.next/
+out/
+
+# Svelte
+.svelte-kit/
+
+# React Native
+.expo/
+
+# Firebase
+.firebase/
+
+# Storybook
+.storybook/
+
+# VS Code settings
+.history/
+
+# Mac system files
+.AppleDouble
+.LSOverride
+
+# Windows system files
+$RECYCLE.BIN/
+
+# Linux system files
+*~
+
+# Yarn
+.yarn/
+.yarnrc.yml
+
+# PM2
+.pm2/
+
+# Parcel
+.cache/
+
+# Others
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Optional lock files
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Custom
+custom-output/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Python (if any)
+__pycache__/
+*.pyc
+
+# JetBrains
+*.iml
+out/
+
+# VSCode extensions
+.vscode-test/
+
+# ESLint cache
+.eslintcache
+
+# Prettier
+.prettier*
+
+# Stylelint
+.stylelint*
+
+# Parcel
+.cache/
+
+# Cypress
+cypress/screenshots/
+cypress/videos/
+cypress/report/
+
+# Playwright
+playwright-report/
+
+# MongoDB dump
+*.dump
+
+# SQLite
+*.sqlite
+*.db
+
+# Miscellaneous
+*.pid
+*.seed
+
+# End of file
