@@ -2,7 +2,7 @@
 
 # Backend-Setup-CRUD
 
-![Project Banner](https://img.shields.io/badge/Backend-CRUD-blue)
+![Project Banner](https://raw.githubusercontent.com/abdulraffayqureshi/wanderlust/main/assets/banner.png)
 
 A comprehensive backend CRUD setup for Apna College major project. This repository provides a robust foundation for building RESTful APIs with full Create, Read, Update, and Delete functionality.
 
@@ -61,7 +61,7 @@ A comprehensive backend CRUD setup for Apna College major project. This reposito
 
 ## 👤 Author
 
-- [Your Name](https://github.com/yourusername)
+- [Abdul Raffay](https://www.linkedin.com/in/abdulraffayqureshi/)
 
 ## 🖼️ Project Structure
 
