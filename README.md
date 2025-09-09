@@ -2,7 +2,7 @@
 
 # Backend-Setup-CRUD
 
-![Project Banner]<img width="1885" height="908" alt="image" src="https://github.com/user-attachments/assets/8cecf342-0ce6-4cd9-bf4b-b719183c8768" />
+<img width="1885" height="908" alt="image" src="https://github.com/user-attachments/assets/8cecf342-0ce6-4cd9-bf4b-b719183c8768" />
 
 
 A comprehensive backend CRUD setup for Apna College major project. This repository provides a robust foundation for building RESTful APIs with full Create, Read, Update, and Delete functionality.
@@ -19,7 +19,9 @@ A comprehensive backend CRUD setup for Apna College major project. This reposito
 
 ## 📸 Screenshots
 
-![API Example](https://user-images.githubusercontent.com/placeholder/api-example.png)
+<img width="1892" height="916" alt="image" src="https://github.com/user-attachments/assets/29c20019-28cf-4a61-b8d8-8ee3f399b78c" />
+<img width="1360" height="787" alt="image" src="https://github.com/user-attachments/assets/567331a3-2d24-4da3-b753-c1aa11235af8" />
+
 
 ## 🛠️ Setup Instructions
 
